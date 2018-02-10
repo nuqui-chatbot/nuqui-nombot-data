@@ -18,7 +18,7 @@ ingFile= open(pathIng, 'r')
 for line in recFile:
     line_list = line.split('\t')
     id = int(line_list[0])
-    name = line_list[2]
+    name = line_list[2][1:-1]
     #insert into db
     cursor.execute("""INSERT INTO nombot_recipe(recipe_id, name) VALUES (%d, '%s')""" % (id, name))
 
