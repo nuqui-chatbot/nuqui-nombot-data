@@ -34,7 +34,7 @@
 34	"1060481211356677"	"Bayerisches Cordon Bleu"	5	25
 35	"1062511211550550"	"Hähnchen - Kohlrabi - Zucchini Pfanne"	20	50
 36	"1063891211716494"	"Kalifornische Lachssuppe"	30	50
-37	"1067801212306854"	"Fischgratin 'Elbflorenz'"	40	50
+37	"1067801212306854"	"Fischgratin Elbflorenz"	40	50
 38	"1068491212398461"	"Gebratene Möhren mit Joghurt"	15	25
 39	"106861044955293"	"Gnocchi - Auflauf"	30	50
 40	"106991044975864"	"Orangensauce"	25	25
@@ -131,7 +131,7 @@
 131	"1229371228032686"	"Schweinegeschnetzeltes mit Gorgonzolasoße"	20	25
 132	"1234101228347289"	"Zungenwurst"	150	50
 133	"1235731228463272"	"Involtini alla Mama"	30	50
-134	"1235861228469325"	"Fondue - Grill - Sauce 'Curry - Banane'"	5	25
+134	"1235861228469325"	"Fondue - Grill - Sauce Curry - Banane"	5	25
 135	"1240121228850120"	"Gefüllte Sommer - Zucchini"	60	50
 136	"1241061228942969"	"Zucchini - Tofuröllchen"	25	50
 137	"1241311228944557"	"Spaghetti an Fenchelgemüse"	25	50
@@ -186,7 +186,7 @@
 186	"1357451240492974"	"Rührei mit Räucherlachs"	0	25
 187	"1359231240685040"	"Indischer Frischkäse mit würziger Tomatensoße"	30	25
 188	"136241058870827"	"Nudeln in Ahornsirup"	20	25
-189	"1363461241164027"	"Scampi 'Buzara'"	10	25
+189	"1363461241164027"	"Scampi Buzara"	10	25
 190	"1363721241193154"	"Gefüllte Teigwarenmuscheln an Paprikasauce"	60	50
 191	"1365321241439507"	"Kartoffel - Hähnchen - Pfanne"	35	50
 192	"1367071241530655"	"Möhren - Ingwer - Suppe"	50	25
@@ -299,7 +299,7 @@
 299	"156641068730444"	"Auflauf mit Gehacktem"	15	25
 300	"1566981264155711"	"Hähnchenbrust mit Schoko - Ingwersauce"	30	50
 301	"157671069233759"	"Lauchsuppe, bunt"	20	25
-302	"1578841265368364"	"Cordon bleu 'Spezial'"	45	25
+302	"1578841265368364"	"Cordon bleu Spezial"	45	25
 303	"158121069337499"	"Scampi mit scharfen Tomaten - Spaghetti"	40	50
 304	"1581997964208"	"Forellen in Pilzsoße"	30	50
 305	"1585811265992455"	"Auberginen - Tomaten - Gratin"	25	25
@@ -331,7 +331,7 @@
 331	"1633971271059473"	"Kräuterhähnchen aus dem Backofen"	20	50
 332	"1634711271069655"	"Spaghetti mit Currygemüse"	20	25
 333	"1641191271751708"	"Paprikaschnitzel"	10	50
-334	"1643311271925410"	"Geflügelbraten 'au vin rouge'"	30	50
+334	"1643311271925410"	"Geflügelbraten au vin rouge"	30	50
 335	"1643451271936404"	"Mini - Snack - Käsehäppchen aus Blätterteig"	0	25
 336	"1647851272441079"	"Schlemmerfilet auf mexikanische Art"	15	25
 337	"1650221272700202"	"Kartoffelgulasch"	20	50
@@ -663,7 +663,7 @@
 663	"536341150640806"	"Geschmortes Paprikahuhn"	20	50
 664	"536461150696313"	"Lauchpfanne"	20	25
 665	"538891151136699"	"Fischragout mit Peperoni"	30	50
-666	"540161151245179"	"Cielito's veganes Auberginen - Kichererbsen - Curry"	55	50
+666	"540161151245179"	"Cielitos veganes Auberginen - Kichererbsen - Curry"	55	50
 667	"541871151504939"	"Nudelsalat a la Jenny"	10	25
 668	"543911151845210"	"Omas Makkaroni Auflauf"	30	25
 669	"544571151930927"	"Teufelssalat"	20	50
