@@ -24,8 +24,8 @@ for line in recFile:
 
 for line in ingFile:
     line_list = line.split('\t')   
-    ing_id = int(line_list[0])
-    recp_id = int(line_list[1])
+    ing_id = int(line_list[1])
+    recp_id = int(line_list[0])
     fat = float(line_list[8])
     carbohydrates= float(line_list[10])
     protein = float(line_list[9])
