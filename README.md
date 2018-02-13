@@ -1,4 +1,4 @@
-# Nombot data
+# Nombot recipes and ingredients data
 This repository contains recipes and ingrediants of german food. They are saved in .sql files and so get transfered into a postgresql database.
 
 ### Tables
